@@ -16,7 +16,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=gnanadesigan-vimala-murugan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <strong>"Don't wish for it, work for it."</strong><br>
+  — Anonymous
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gnanadesigan-vimala-murugan&icon=0&color=0)](https://visitcount.itsvg.in)
