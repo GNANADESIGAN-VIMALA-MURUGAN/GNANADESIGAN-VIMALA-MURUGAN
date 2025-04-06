@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gnanadesigan-vimala-murugan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 <p align="center">
   <strong>"Don't wish for it, work for it."</strong><br>
   — Anonymous
